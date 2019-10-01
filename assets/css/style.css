@@ -1,0 +1,23 @@
+body {
+    color: black;
+    text-align: center;
+}
+
+.jumbotron {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.btn {
+    color: red;
+    border: 6px solid black;
+    text-align: center;
+    background-color: black;
+    font-size: 16pt;
+}
+
+.answer:hover {
+    background: white;
+}
+
